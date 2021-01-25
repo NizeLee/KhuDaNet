@@ -1,5 +1,5 @@
 # KhuDaNet(Perceptron, MLP, CNN)
-* KhuDaNet: Open source platform for neural networks (Kyung Hee University Data Analysis & Vision Intelligence)
+* KhuDaNet: Open source platform for neural networks (Kyung Hee University, Data Analysis & Vision Intelligence)
 * C++, (Perceptron, MLP(DNN), CNN)
 
 ## Source file

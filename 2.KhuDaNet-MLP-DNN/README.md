@@ -1,5 +1,5 @@
 # KhuDaNet(MLP, DNN)
-* KhuDaNet: Open source platform for neural networks (Kyung Hee University Data Analysis & Vision Intelligence Neural Networks)
+* KhuDaNet: Open source platform for neural networks (Kyung Hee University, Data Analysis & Vision Intelligence)
 * MLP, DNN
 * C++
 

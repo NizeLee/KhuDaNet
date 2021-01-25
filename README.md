@@ -14,11 +14,11 @@
 * Run the following files
   + KhuDaNetApp.exe: Windows application using MFC
   + KhuDaNetConsole.exe: console application
-* Network I - 1.KhuDaNet-Perceptron
+* Network I - [1.KhuDaNet-Perceptron](https://github.com/NizeLee/KhuDaNet/tree/main/1.KhuDaNet-Perceptron)
   + Input: 28*28 pixel values ranging [0, 1]
   + Output: 1 node for binary decision (class 0: digits 0, 1, 2, 3, 4, class 1: digits 5, 6, 7, 8, 9)
   <br><br> <img src="1.KhuDaNet-Perceptron/Perceptron.png"></img>  
-* Network II - 2.KhuDaNet-MLP-DNN
+* Network II - [2.KhuDaNet-MLP-DNN](https://github.com/NizeLee/KhuDaNet/tree/main/2.KhuDaNet-MLP-DNN)
   + Input layer: 28*28 pixel values ranging [0, 1]
   + Hidden layers: 2 hidden layers
   + Output layer: 10 node for 10 digits
